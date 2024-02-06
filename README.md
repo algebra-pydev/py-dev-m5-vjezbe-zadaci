@@ -2,6 +2,6 @@
 
 Vježbe i zadaci modula 5 - Python u području Internet stvari
 
-Koristi VNC na virtualno računalo na kojem je instaliran i pokrenut SenseHAT Emulator.
+**Koristiti VNC konekciju na virtualno računalo na kojem je instaliran i pokrenut SenseHAT Emulator.**
 
 TODO Upute
